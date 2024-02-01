@@ -1,2 +1,2 @@
 # Python
-Python Programming
+This repo contains concepts and assignments using python
